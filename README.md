@@ -147,8 +147,8 @@ The editor UI includes:
 ### Downloads
 Create a `Descargas` tab that shows WooCommerce downloadable products inside the Tutor dashboard.
 
-### Stock Market
-Create a `Stock Market` tab that renders an Elementor template with tables, charts, listings, and dynamic content.
+### Custom Resources
+Create a custom dashboard tab that renders an Elementor template with listings, widgets, sections, and dynamic content.
 
 ### Subscriptions
 Create a `Suscripciones` tab that can render:
@@ -226,4 +226,3 @@ The plugin is already capable of:
 - `templates/` dashboard and module templates
 - `assets/` admin and frontend CSS/JS
 - `docs/` implementation notes, ADRs, and manual test plan
-

@@ -3,7 +3,8 @@
  * Plugin Name: Tutor Dashboard Modules
  * Description: Modular student dashboard endpoints for Tutor LMS managed from WordPress admin.
  * Version: 0.1.0
- * Author: Codex
+ * Author: Booming
+ * Author URI: https://www.instagram.com/madebybooming/
  * Text Domain: tutor-dashboard-modules
  * Domain Path: /languages
  */
