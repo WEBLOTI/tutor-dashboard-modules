@@ -1,0 +1,58 @@
+.tdm-module-shell {
+	background: #fff;
+	border: 1px solid #e5e7eb;
+	border-radius: 14px;
+	padding: 24px;
+	box-shadow: 0 10px 30px rgba(15, 23, 42, 0.04);
+}
+
+.tdm-module-shell--plain {
+	border: 0;
+	padding: 0;
+	box-shadow: none;
+	background: transparent;
+}
+
+.tdm-module-notice {
+	margin-bottom: 12px;
+	padding: 12px 14px;
+	border-radius: 10px;
+	background: #f5f7fb;
+	color: #334155;
+}
+
+.tdm-fallback {
+	padding: 18px;
+	border-radius: 12px;
+	background: #f8fafc;
+	border: 1px dashed #cbd5e1;
+}
+
+.tdm-fallback--forbidden {
+	background: #fff7ed;
+	border-color: #fdba74;
+	color: #9a3412;
+}
+
+.tdm-placeholder-card {
+	padding: 18px 20px;
+	border-radius: 14px;
+	background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+	border: 1px solid #dbe4f0;
+}
+
+.tdm-placeholder-kicker {
+	font-size: 12px;
+	font-weight: 600;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: #64748b;
+}
+
+.tdm-dynamic-pre {
+	padding: 16px;
+	overflow: auto;
+	border-radius: 12px;
+	background: #0f172a;
+	color: #e2e8f0;
+}
